@@ -89,7 +89,7 @@ Please note that the table assumes the use of standard Arduino pin numbering. Ma
 ## Flowchart
 
 ```mermaid
-graph TD
+graph LR
 
 subgraph Initialization
   A[Initialize Variables]
@@ -173,9 +173,7 @@ The program continues to loop through these steps, scanning RFID cards, updating
 
 ## Further Customization
 
-The code provided is a starting point for building an RFID attendance system. You
-
- can customize it according to your specific requirements and hardware setup. Some possible enhancements include:
+The code provided is a starting point for building an RFID attendance system. You can customize it according to your specific requirements and hardware setup. Some possible enhancements include:
 
 - Adding a database or external storage for storing attendance records.
 - Implementing additional features like user authentication, time scheduling, or generating reports.
