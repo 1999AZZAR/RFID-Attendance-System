@@ -2,6 +2,20 @@
 
 This repository contains the code for an RFID attendance system. The system utilizes an RFID reader, LCD display, buzzer, and LEDs to track and display the attendance status of users.
 
+# Table Of Contents
+
+1. [Description](#Description)
+2. [Code explanation](#Code-Explanation)
+3. [Requirements](#Requirements)
+4. [Installation and Setup](#Installation-and-Setup)
+5. [Pin Connection](#Pin-Connection)
+6. [Usage](#Usage)
+7. [Flowchart](#Flowchart)
+8. [Features](#Features)
+9. [Customization](#Customization)
+10. [Further Customization](#Further-Customization)
+11. [Troubleshooting](#Troubleshooting)
+    
 ## Description
 
 The RFID Attendance System is an Arduino-based project that allows for tracking the attendance of individuals using RFID cards. This system utilizes an RFID reader to scan RFID card IDs and displays relevant information on an LCD screen. The code provided implements the core functionality of the system, including card scanning, presence tracking, and data storage.
